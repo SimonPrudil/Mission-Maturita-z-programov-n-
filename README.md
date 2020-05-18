@@ -1,1 +1,1 @@
-# Mission-Maturita-z-programování
+# Mission Maturita z programování
